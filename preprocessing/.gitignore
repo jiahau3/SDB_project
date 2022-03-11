@@ -1,0 +1,7 @@
+# sentinel raw data should not be tracked
+# only retrieved rasters or vectors should be stored
+data/**/sentinel
+
+# dvc additions come here at the end
+/data
+!/data/**/*.dvc
