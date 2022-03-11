@@ -1,2 +1,2 @@
 # This is the repository of Satellite-Derived Bathymetry
-For getting/preprocessing satellites, please check out preprocessing directory.
+For getting/preprocessing satellite images, please check out preprocessing directory.
